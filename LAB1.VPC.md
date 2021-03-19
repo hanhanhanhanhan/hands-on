@@ -6,5 +6,6 @@
  - Network ACL 이름 : lab1-vpc-web-nacl 
  - VPC : lab-vpc 선택 후 생성 클릭
 
-위에서 생성한 lab1-vpc-web-nacl 선택 후 상단 'Rule 설정' 클릭
+### lab1-vpc-web-nacl 선택 후 상단 'Rule 설정' 클릭
 
+#### inbound 규칙 설정
