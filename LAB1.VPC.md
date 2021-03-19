@@ -1,0 +1,10 @@
+## 1. VPC , 서버용 Subnet, Kubernetes 용 Subnet 생성
+### Product and Service -> Networking -> VPC 선택
+ - VPC 이름 : lab-vpc
+ - IP 주소 범위 : 10.0.0.0/16
+### Product and Service -> VPC -> Network ACL 생성 선택
+ - Network ACL 이름 : lab1-vpc-web-nacl 
+ - VPC : lab-vpc 선택 후 생성 클릭
+
+위에서 생성한 lab1-vpc-web-nacl 선택 후 상단 'Rule 설정' 클릭
+
